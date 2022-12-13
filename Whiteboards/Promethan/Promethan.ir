@@ -6,13 +6,13 @@ Version: 1
 name: POWER
 type: parsed
 protocol: NECext
-address: 33 FF 00 00
+address: 33 FF 11 00
 command: 00 FF 00 00
 # 
 name: MENU
 type: parsed
 protocol: NECext
-address: 33 FF 00 00
+address: 33 FF 11 00
 command: 1C E3 00 00
 # 
 name: FREZE
